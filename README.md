@@ -7,7 +7,7 @@
 
 Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Maringá, e recentemente venho dedicando meu tempo para o estudo de Machine Learning e Data Science. Últimamente meu foco de estudo vem sendo Redes Neurais e Processamento de Linguagem Natural (NLP).
 
-**Background :**  Python, R, SQL, Excel, Machine Learning.
+**Background :**  Python, R, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/henrique-vedoveli)
