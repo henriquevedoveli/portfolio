@@ -28,6 +28,9 @@ Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Mar
   
 * **Correção de Provas Utilizando Visão Computacional**
   * Repositório - https://github.com/henriquevedoveli/correcao-provas
+  
+* **Segmentação de Clientes Utilizando Modelo RFM**
+  * Repositório - https://github.com/henriquevedoveli/segmentacao-clientes
  
 * **Análise Exploratória do conjunto de dados do MovieLens**
   * Repositório - https://github.com/henriquevedoveli/projetos-alura
