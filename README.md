@@ -34,7 +34,7 @@ Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Mar
 
 * **EDA e Construção de Dashboard**
 
-  * **Dashboard com dados da COVID-19 do Brasil e Paraná:** 
+  * **Dashboard com dados da COVID-19 do Brasil e Paraná**  <sub>Projeto realizado sob supervisão do Departamento de Matemática (UEM) </sub>  
     * Dashboard - https://henrique-vedoveli.shinyapps.io/covid19/
     * Repositório - https://github.com/henriquevedoveli/modelagem-covid
  
