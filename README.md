@@ -24,6 +24,9 @@ Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Mar
     * Repositório - https://github.com/henriquevedoveli/sumarizador-textos
     * Site - Ainda em construção.
 
+  * **Gerador de Poemas**
+    * Repositório - https://github.com/henriquevedoveli/GeradorPoemas
+
 * **Visão Computacional**
   *  **Correção de Provas Utilizando Visão Computacional**
       * Repositório - https://github.com/henriquevedoveli/correcao-provas
