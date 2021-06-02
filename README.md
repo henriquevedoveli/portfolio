@@ -3,20 +3,20 @@
 </p>
 
 # Henrique Hundsdorfer Vedoveli
-<sub>Estudante de Física e Cientista de Dados</sub>
 
-Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Maringá, e recentemente venho dedicando meu tempo para o estudo de Machine Learning e Data Science. Com foco de estudos em Visão Computacional e Processamento de Linguagem Natural (NLP).
-
-**Background :**  Python, R, SQL.
+Graduando em Física Bacharel pela Universidade Estadual de Maringá (UEM). Atualmente realizo pesquisa científica em Deep Learning aplicado na Medicina.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/henrique-vedoveli)
 * [Medium](https://medium.com/@henriquevedoveli)
+* Email: henriquevedoveli@gmail.com
 
-
+---
+---
 ## Projetos:
 
-* **NLP**
+
+### NLP
   *   **Classificador de Títulos de Notícias Utilizando Word2Vec**
       * Repositório - https://github.com/henriquevedoveli/classificacao-titulos
 
@@ -26,16 +26,29 @@ Estudante do terceiro ano de Física Bacharelado na Universidade Estadual de Mar
 
   * **Gerador de Poemas**
     * Repositório - https://github.com/henriquevedoveli/GeradorPoemas
+---
 
-* **Visão Computacional**
+### Visão Computacional
   *  **Correção de Provas Utilizando Visão Computacional**
       * Repositório - https://github.com/henriquevedoveli/correcao-provas
 
-* **Modelos de Classificação**
+   *  **Correção de Provas Utilizando Visão Computacional versão 2**
+        * Repositório - https://github.com/henriquevedoveli/CorrecaoProvasv2
+
+  *  **Virtual Painter - Desenhando na Tela com as Mãos**
+        * Repositório - https://github.com/henriquevedoveli/VirtualPainter
+
+  *  **Finger Counter - Contando quantos dedos estão levantados utilizando landmarks**
+        * Repositório - https://github.com/henriquevedoveli/FingerCounter
+
+---
+
+### Modelos de Classificação
   * **Segmentação de Clientes Utilizando Modelo RFM**
     * Repositório - https://github.com/henriquevedoveli/segmentacao-clientes
+---
 
-* **EDA e Construção de Dashboard**
+### EDA e Construção de Dashboard
 
   * **Dashboard com dados da COVID-19 do Brasil e Paraná**  <sub>Projeto realizado sob supervisão do Departamento de Matemática (UEM) </sub>  
     * Dashboard - https://henrique-vedoveli.shinyapps.io/covid19/
