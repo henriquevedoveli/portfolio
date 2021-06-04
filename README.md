@@ -16,16 +16,7 @@ Graduando em Física Bacharel pela Universidade Estadual de Maringá (UEM). Atua
 ## Projetos:
 
 
-### NLP
-  *   **Classificador de Títulos de Notícias Utilizando Word2Vec**
-      * Repositório - https://github.com/henriquevedoveli/classificacao-titulos
 
-  * **Sumarizador de Textos online**
-    * Repositório - https://github.com/henriquevedoveli/sumarizador-textos
-    * Site - Ainda em construção.
-
-  * **Gerador de Poemas**
-    * Repositório - https://github.com/henriquevedoveli/GeradorPoemas
 ---
 
 ### Visão Computacional
@@ -43,22 +34,36 @@ Graduando em Física Bacharel pela Universidade Estadual de Maringá (UEM). Atua
 
 ---
 
-### Modelos de Classificação
-  * **Segmentação de Clientes Utilizando Modelo RFM**
-    * Repositório - https://github.com/henriquevedoveli/segmentacao-clientes
+### NLP
+  *   **Classificador de Títulos de Notícias Utilizando Word2Vec**
+      * Repositório - https://github.com/henriquevedoveli/classificacao-titulos
+
+  * **Site com Resumos de Textos & Tradutor Automático e Gerador de Poemas Aleatórios**
+    * Site - https://resumoautomatico.herokuapp.com/
+    * Repositório - https://github.com/henriquevedoveli/nlpApp
+
 ---
 
 ### EDA e Construção de Dashboard
 
+  * **Previsão de Preço de Aluguéis para Cidades Brasileiras:** 
+    * Site: - https://regressor-aluguel.herokuapp.com/
+    * Repositório - https://github.com/henriquevedoveli/previsao-alugueis
+   
+
   * **Dashboard com dados da COVID-19 do Brasil e Paraná**  <sub>Projeto realizado sob supervisão do Departamento de Matemática (UEM) </sub>  
     * Dashboard - https://henrique-vedoveli.shinyapps.io/covid19/
     * Repositório - https://github.com/henriquevedoveli/modelagem-covid
- 
-  * **Previsão de Preço de Aluguéis para Cidades Brasileiras:** 
-    * Repositório - https://github.com/henriquevedoveli/previsao-alugueis
 
   * **Análise Exploratória do conjunto de dados do MovieLens**
     * Repositório - https://github.com/henriquevedoveli/projetos-alura
+
+
+---
+
+### Modelos de Classificação
+  * **Segmentação de Clientes Utilizando Modelo RFM**
+    * Repositório - https://github.com/henriquevedoveli/segmentacao-clientes
 
  
 ---
