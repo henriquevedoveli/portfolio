@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 # Henrique Hundsdorfer Vedoveli
 
 Graduando em Física Bacharel pela Universidade Estadual de Maringá (UEM). Atualmente realizo pesquisa científica em Deep Learning aplicado na Medicina.
